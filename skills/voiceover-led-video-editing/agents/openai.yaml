@@ -1,0 +1,4 @@
+interface:
+  display_name: "旁白驱动的视频剪辑"
+  short_description: "围绕已有旁白完成素材编排、字幕同步、局部返修与成片检查，保留原版并准确交付"
+  default_prompt: "使用 $voiceover-led-video-editing 检查现有旁白、字幕和素材，按本次要求完成剪辑并交付可播放审核片与检查状态。"
